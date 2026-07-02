@@ -1,0 +1,2 @@
+modality,encoding_scheme,effective_k_range,sensor
+Knock,Timing/Force,2-8,IMU/Mic
