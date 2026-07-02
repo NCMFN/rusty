@@ -1,0 +1,6 @@
+/target/
+/data/
+/figures/
+/tables/
+/report/results_report.md
+**/*.rs.bk

@@ -1,0 +1,6 @@
+configuration,p_attack
+Full DRPP (k=8),0.0039
+DRPP w/o Multi-modal,0.0500
+DRPP w/o Temporal Bind,0.1500
+DRPP w/o Liveness,0.8500
+Traditional Env-cue,0.3400

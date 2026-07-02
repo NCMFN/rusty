@@ -1,0 +1,2 @@
+attack_type,mitigation,p_attack_no_mit,p_attack_with_mit
+Replay,Liveness Detection,0.85,0.05
