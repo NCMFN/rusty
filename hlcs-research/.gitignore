@@ -1,0 +1,7 @@
+target/
+figures/
+tables/
+data/
+report/
+crates/hlcs_core/outputs/figures/
+crates/hlcs_core/outputs/tables/

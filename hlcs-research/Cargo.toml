@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates/hlcs_core",
+    "crates/forex_sim",
+    "crates/experiments"
+]
+resolver = "2"
