@@ -1,0 +1,10 @@
+Scheme,n,Load,Mean Latency (ms)
+Hybrid,128,10,0.0399
+Hybrid,128,50,0.0274
+Hybrid,128,100,0.0298
+Hybrid,256,10,0.0926
+Hybrid,256,50,0.0900
+Hybrid,256,100,0.0884
+Hybrid,512,10,0.3050
+Hybrid,512,50,0.3023
+Hybrid,512,100,0.3033

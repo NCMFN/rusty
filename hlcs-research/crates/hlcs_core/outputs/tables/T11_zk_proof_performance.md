@@ -1,0 +1,4 @@
+| Operation | Mean Time (us) | Std Time (us) |
+| --- | --- | --- |
+| Prove | 321684.22 | 29359.88 |
+| Verify | 318421.65 | 25465.87 |
