@@ -1,0 +1,4 @@
+Scheme,Comm Size (Bytes),Security Bits
+Hash-only,32,256
+Lattice-only,2048,512
+Hybrid,2080,512

@@ -1,0 +1,5 @@
+| Scheme | Mean (ms) | Trials |
+| --- | --- | --- |
+| Hash | 0.0011 | 100 |
+| Lattice | 0.2908 | 100 |
+| Hybrid | 0.3045 | 100 |
