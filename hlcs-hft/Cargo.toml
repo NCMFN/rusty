@@ -1,0 +1,23 @@
+[package]
+name = "hlcs-hft"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha3 = "0.10"
+rand = "0.8"
+rand_distr = "0.4"
+rayon = "1.10"
+csv = "1.3"
+plotters = "0.3"
+
+[dev-dependencies]
+criterion = "0.5"
+
+[[bin]]
+name = "benchmark"
+path = "src/main.rs"
+
+[lib]
+name = "hlcs_hft"
+path = "src/lib.rs"
