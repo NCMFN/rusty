@@ -1,0 +1,6 @@
+scheme,n,throughput_ops
+hybrid,128,3518
+hybrid,256,1920
+hybrid,512,1115
+hybrid,768,1034
+hybrid,1024,729
