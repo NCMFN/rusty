@@ -1,0 +1,16 @@
+scheme,n,commit_size_bytes,bw_per_1k_orders_kb
+hash_only,128,32,31.2
+hybrid,128,288,281.2
+lattice_only,128,256,250.0
+hash_only,256,32,31.2
+hybrid,256,544,531.2
+lattice_only,256,512,500.0
+hash_only,512,32,31.2
+hybrid,512,1056,1031.2
+lattice_only,512,1024,1000.0
+hash_only,768,32,31.2
+hybrid,768,1568,1531.2
+lattice_only,768,1536,1500.0
+hash_only,1024,32,31.2
+hybrid,1024,2080,2031.2
+lattice_only,1024,2048,2000.0
