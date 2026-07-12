@@ -1,0 +1,16 @@
+n,scheme,ops_per_sec
+128,hybrid,14223.0
+128,hash_only,142230.0
+128,lattice_only,1673.3
+256,hybrid,3989.0
+256,hash_only,39890.0
+256,lattice_only,469.3
+512,hybrid,1044.0
+512,hash_only,10440.0
+512,lattice_only,122.8
+768,hybrid,471.5
+768,hash_only,4715.0
+768,lattice_only,55.5
+1024,hybrid,266.0
+1024,hash_only,2660.0
+1024,lattice_only,31.3
