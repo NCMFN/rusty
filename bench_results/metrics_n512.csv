@@ -1,0 +1,4 @@
+Scheme,Size_B,BW_1k_KB,P99_at_10k_s_ms,Jitter_percent,Allocs_commit
+Hash,32,31.2,0.06,3,0
+Hybrid,1056,1031.0,0.81,11,0
+Lattice,1024,1000.0,7.2,22,2
