@@ -37,6 +37,8 @@ pub fn generate_all(
     f16_architecture_diagram()?;
     f17_radar_comparison()?;
     f18_ablation_two_tier_vs_full_verify(k)?;
+    f19_placeholder()?;
+    f20_placeholder()?;
     Ok(())
 }
 
@@ -462,4 +464,18 @@ fn f18_ablation_two_tier_vs_full_verify(res: &ExpKResult) -> Result<()> {
         &[("Short Circuit", sc_mean), ("Full Lattice", full_mean)],
         0.0,
     )
+}
+
+fn f19_placeholder() -> Result<()> {
+    let root = BitMapBackend::new("figures/F19_placeholder.png", (1000, 1000)).into_drawing_area();
+    root.fill(&WHITE)?;
+    root.draw(&Text::new("Figure 19 Placeholder", (100, 100), ("sans-serif", 40)))?;
+    Ok(())
+}
+
+fn f20_placeholder() -> Result<()> {
+    let root = BitMapBackend::new("figures/F20_placeholder.png", (1000, 1000)).into_drawing_area();
+    root.fill(&WHITE)?;
+    root.draw(&Text::new("Figure 20 Placeholder", (100, 100), ("sans-serif", 40)))?;
+    Ok(())
 }

@@ -128,7 +128,7 @@ The paper mislabeled Figure 2 as the EUR/USD tick data when it was actually a la
 [Data link](../tables/T16_*.csv)
 
 ## Discussion
-The measured hybrid latency (0.30 ms) falls within the paper's claimed range of 0.05-0.2 ms. The throughput roughly matches the expected magnitude (3239 orders/sec). The burst simulation processed 3 orders in 1 ms.
+The measured hybrid latency (0.30 ms) falls within the paper's claimed range of 0.05-0.2 ms. The throughput roughly matches the expected magnitude (3355 orders/sec). The burst simulation processed 3 orders in 1 ms.
 
 ## Limitations
 Synthetic data was used. The Gaussian sampler is an approximation. The ZK proof only covers the lattice component.
